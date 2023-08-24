@@ -2,7 +2,7 @@
 
 Developed for footsteps [#119](https://github.com/ton-society/ton-footsteps/issues/119) and [#127](https://github.com/ton-society/ton-footsteps/issues/127) from [TON Footsteps](https://github.com/ton-society/ton-footsteps).
 
-Published in [**TON Documentation**](https://github.com/ton-community/ton-docs) via the [**link**](https://docs.ton.org/develop/howto/blockchain-configs#how-to-calculate-periods-1) (may become outdated).
+Published in [**TON Documentation**](https://github.com/ton-community/ton-docs) via the [**link**](https://docs.ton.org/develop/howto/blockchain-configs) (may become outdated).
 
 
 
